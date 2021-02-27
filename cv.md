@@ -47,7 +47,7 @@ Training courses
 Sample code
 ----------------
 
-```javascript
+```JavaScript
 const hamburger = document.querySelector('.hamburger'),
             
 hamburger.addEventListener('click', () => {
