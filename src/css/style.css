@@ -1,0 +1,20 @@
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+p {
+    background-color: rgb(245, 245, 245);
+}    
+
+.lang {
+    background-color: rgb(245, 245, 245);
+}
+
+.langli {
+    list-style-type: none;
+    
+}
+.langli:before {
+    content: "* "; /* Добавляем в качестве маркера символ */
+   }
