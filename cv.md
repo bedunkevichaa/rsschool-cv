@@ -60,7 +60,7 @@ Project
 
 [Pulse](https://github.com/bedunkevichaa/pulse.git)
 
-Extra 
+**Extra** 
 ------------------------
 
 Languages:
