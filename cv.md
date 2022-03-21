@@ -47,7 +47,8 @@ Training courses
     * JS
     * jQuery
     * React
-    * Node.js	
+    * Node.js
+    * Git	
 
 Sample code
 ----------------
