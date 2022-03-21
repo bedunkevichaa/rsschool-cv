@@ -15,6 +15,11 @@ Education
 :   **Computer Software Engineering**; 
     Belarusian State University of Informatics and Radioelectronics (Minsk)
 
+2000-2004
+
+:   **Software technician, Information Technology Software**;
+    Belarusian College of Business and Law (Minsk)
+
 Experience
 ----------
 
