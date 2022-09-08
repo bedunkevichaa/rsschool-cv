@@ -64,13 +64,13 @@ hamburger.addEventListener('click', () => {
 Project
 ---------
 
-[Pulse](https://github.com/bedunkevichaa/pulse.git)
+[Pulse](https://bedunkevichaa.github.io/pulse/src/)
 
 **Extra** 
 ------------------------
 
 Languages:
 
-     * English (A2)
+     * English (B1)
 
 **I want to radically change my life and finish what I started in college and university - to become a programmer.**
